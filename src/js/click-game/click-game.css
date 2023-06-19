@@ -1,0 +1,18 @@
+.click-game {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cell {
+    box-sizing: border-box;
+    border: solid;
+    width: 100px;
+    height: 100px;
+}
+
+.cell-with-person {
+    background-image: url('https://github.com/netology-code/ahj-homeworks/raw/video/dom/pic/goblin.png');
+    background-size: cover;
+}
